@@ -13,8 +13,10 @@ Es un sistema que desarrolle para la empresa Exelco, partiendo desde todo el cic
     > Capacitación a los usuarios.
     > Mantenimiento y soporte del sistema. 
     
+![MENU-SISPAG](sispag.png)
    
 Todas mis contribuciones fueron realizadas desde mi antigua cuenta => https://github.com/JuanGuevara96
+
 
 ## Resumen de funciones del sistema
 
